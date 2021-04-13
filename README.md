@@ -13,4 +13,4 @@ An android application using Kotlin Language. This app shows characters from The
 
 
 ### Autor
-*Belen Cerezo. © 2021*
+*Belen Cerezo © 2021*
